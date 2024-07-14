@@ -30,7 +30,7 @@ Antes de começar, você precisará ter o Python 3.x instalado em sua máquina. 
 2. Navegue até o diretório do projeto:
 
     ```bash
-    cd tdd-project
+    cd store_api
     ```
 
 3. Crie um ambiente virtual e ative-o:
